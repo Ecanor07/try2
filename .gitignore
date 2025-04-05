@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+
+# Environment
+.env
+venv/
+env/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Others
+*.log
+*.zip
